@@ -1,0 +1,23 @@
+h1 {
+  color: #8A2BF2;
+  font-size: 300%;
+  font-family: Arial, Verdana, sans-serif;
+  text-align: center;
+box-shadow: 70px 50px 50px black;
+}
+P {
+  padding-left: 100px;
+}
+h3{
+   color: #008000 ;
+   letter-spacing : 25px;
+    }
+h5{font-weight: 900;
+color: #0000FF ;
+text-align: right ;
+text-decoration: line-through;
+}p {
+ border: 3px solid #9932CC; 
+}  
+body{ background-color: #DCDCDC }
+  
